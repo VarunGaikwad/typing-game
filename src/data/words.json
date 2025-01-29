@@ -1,30 +1,50 @@
 {
   "easy": [
-    "The cat sat on the mat.",
-    "She likes to play outside.",
-    "Time flies when we have fun.",
-    "I love to eat ice cream.",
-    "He is a very good boy."
+    "The sun sets behind the mountains.",
+    "My dog loves to chase butterflies.",
+    "She sings beautifully in the morning.",
+    "We had pancakes for breakfast today.",
+    "The little boy played with his toy car.",
+    "Birds chirp happily in the fresh air.",
+    "Reading books is my favorite hobby.",
+    "The flowers bloom in the springtime.",
+    "He runs fast but she runs faster.",
+    "I baked a cake with chocolate frosting."
   ],
   "medium": [
     "The quick brown fox jumps over the lazy dog.",
     "Practice makes perfect in everything you do.",
     "A bird in the hand is worth two in the bush.",
     "Honesty is the best policy in all situations.",
-    "We should strive to be kind and helpful every day."
+    "We should strive to be kind and helpful every day.",
+    "Technology is evolving at an unprecedented rate.",
+    "Success requires dedication, effort, and patience.",
+    "The rain poured down, soaking everything in sight.",
+    "The project deadline is approaching quickly, so we must act now.",
+    "She brought a bright yellow umbrella to the picnic."
   ],
   "hard": [
     "The philosophical discussions often revolved around metaphysics and epistemology.",
     "She sells seashells by the seashore, and the shells she sells are surely seashells.",
     "Through thick and thin, they managed to weather the storm of life together.",
     "A rolling stone gathers no moss, but it surely collects momentum.",
-    "Complex algorithms are essential for processing vast amounts of information efficiently."
+    "Complex algorithms are essential for processing vast amounts of information efficiently.",
+    "The journey through the dense forest was filled with challenges and surprises.",
+    "The ancient manuscripts contained wisdom that had been passed down for centuries.",
+    "The orchestra's performance was a harmonious blend of melodies and rhythms.",
+    "The government enacted policies to foster innovation and economic growth.",
+    "Artificial intelligence is revolutionizing industries around the world."
   ],
   "punctuation_challenge": [
     "\"Are you coming to the party?\", she asked.",
     "It's important to use proper punctuation—like commas, semicolons, and periods!",
     "Don't forget to dot your i's and cross your t's.",
     "Well... I suppose we could try something different!",
-    "He said: \"The quick, brown fox jumped over the lazy dog.\""
+    "He said: \"The quick, brown fox jumped over the lazy dog.\"",
+    "My sister-in-law, who lives in Paris, is visiting us next week.",
+    "There are three main reasons: first, it’s cost-effective; second, it’s efficient; and third, it’s easy to use.",
+    "He paused for a moment—then he smiled and said, 'I’m ready.'",
+    "Can you believe it? She said: ‘I told you so.’",
+    "I can’t believe you said that—what were you thinking?"
   ]
 }
